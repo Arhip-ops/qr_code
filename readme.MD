@@ -1,5 +1,8 @@
+
 <h1 align = "center">Генератор QR-кодів/QR-Code generator</h1>
 
+
+# Генератор QR-кодів/QR-Code generator
 ---
 ## Генератор QR-кодів - проєкт, який був створений для створювання кастомізованих QR-кодів, які користувач зберігає на сайті
 QR Code Generator is a project that was created to create customized QR codes that the user saves on the site.
@@ -37,6 +40,8 @@ QR Code Generator is a project that was created to create customized QR codes th
 Нашою **ціллю** було **створення зручного генераторат QR-кодів**, де людина може **обрати** будь-яку **кастомізацію**
 
 ## Над цим проєктом працювали \ They worked on the project:
+=======
+## Над цим проєктом працювали/They worked on the project:
 **Ващенко Артем(TeamLead)**: https://github.com/VashchenkoArtem
 **Кирило Харлан**: https://github.com/KirillKharlan
 **Марков Дмитро**: https://github.com/DmitriyM08
