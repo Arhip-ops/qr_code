@@ -38,6 +38,7 @@ QR Code Generator is a project that was created to create customized QR codes th
 Нашою **ціллю** було **створення зручного генераторат QR-кодів**, де людина може **обрати** будь-яку **кастомізацію**
 
 ## Над цим проєктом працювали \ They worked on the project:
+<<<<<<< HEAD
 
 **Ващенко Артем(TeamLead)**: https://github.com/VashchenkoArtem
 
@@ -45,6 +46,13 @@ QR Code Generator is a project that was created to create customized QR codes th
 
 **Марков Дмитро**: https://github.com/DmitriyM08
 
+=======
+=======
+## Над цим проєктом працювали/They worked on the project:
+**Ващенко Артем(TeamLead)**: https://github.com/VashchenkoArtem
+**Кирило Харлан**: https://github.com/KirillKharlan
+**Марков Дмитро**: https://github.com/DmitriyM08
+>>>>>>> 2572ace3e802d1447ac1698a3f3cced9d0b65a4d
 **Архіп Гончар**: https://github.com/Arhip-ops
 
 ## Посилання на figma дизайн \ Link on figma design file: 
